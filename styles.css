@@ -1,0 +1,12 @@
+body {
+  padding-top: 3rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+#solution{
+  background-color: #090057;
+  color: #FFE02F;
+}
